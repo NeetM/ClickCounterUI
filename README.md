@@ -1,2 +1,3 @@
 # ClickCounterUI
-Click Counter with UI
+Click Counter with UI 🖱️📊
+Made with Java
